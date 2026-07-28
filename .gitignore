@@ -1,0 +1,16 @@
+*
+!.gitignore
+!.gitattributes
+!.nojekyll
+!README.md
+!THIRD_PARTY_NOTICES.md
+!index.html
+!manifest.webmanifest
+!sw.js
+!workbox-*.js
+!assets/
+!assets/**
+!icons/
+!icons/**
+!licenses/
+!licenses/**
