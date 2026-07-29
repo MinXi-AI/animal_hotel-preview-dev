@@ -1,1 +1,0 @@
-import{t as e}from"./pixi-CLQBhpNL.js";export{e as BitmapFont};

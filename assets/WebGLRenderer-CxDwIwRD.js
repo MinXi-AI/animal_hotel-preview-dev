@@ -1,1 +1,0 @@
-import{r as e}from"./pixi-CLQBhpNL.js";export{e as WebGLRenderer};

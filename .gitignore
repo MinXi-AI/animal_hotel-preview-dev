@@ -2,8 +2,14 @@
 !.gitignore
 !.gitattributes
 !.nojekyll
+!.github/
+!.github/workflows/
+!.github/workflows/deploy-development.yml
+!.github/scripts/
+!.github/scripts/verify-development-candidate.mjs
 !README.md
 !THIRD_PARTY_NOTICES.md
+!deployment-manifest.json
 !index.html
 !manifest.webmanifest
 !sw.js

@@ -1,0 +1,1 @@
+import{n as e}from"./pixi-lHPPnHCN.js";export{e as WebGPURenderer};
