@@ -1,0 +1,1 @@
+import{i as e}from"./pixi-BAgLORR9.js";export{e as CanvasRenderer};

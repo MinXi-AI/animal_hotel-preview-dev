@@ -1,1 +1,0 @@
-import{i as e}from"./pixi-lHPPnHCN.js";export{e as CanvasRenderer};
