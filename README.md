@@ -5,7 +5,7 @@
 - 在线入口：<https://minxi-ai.github.io/animal_hotel-preview-dev/>
 - 发布分支：`main`
 - 部署基路径：`/animal_hotel-preview-dev/`
-- 当前对应私有源码：`1b7957626a5c784f3060fab26652d2704a14d56d`
+- 当前对应私有源码：`2eeb69e99e9da8087f39fae8bab9cd5b78a3a241`
 - 用途：让用户尽早体验尚未晋级正式服的开发候选
 
 开发服可能领先正式服，不代表任务完成、里程碑验收或正式发行。正式服入口为 <https://minxi-ai.github.io/animal_hotel-preview/>。
