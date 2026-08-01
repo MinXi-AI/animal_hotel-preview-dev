@@ -1,1 +1,0 @@
-import{i as e}from"./pixi-YtBHUI3_.js";export{e as CanvasRenderer};

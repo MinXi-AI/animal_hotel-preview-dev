@@ -12,6 +12,7 @@
 !deployment-manifest.json
 !index.html
 !manifest.webmanifest
+!version.json
 !sw.js
 !workbox-*.js
 !assets/

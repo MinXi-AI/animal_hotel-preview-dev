@@ -1,1 +1,0 @@
-import{t as e}from"./pixi-YtBHUI3_.js";export{e as BitmapFont};
